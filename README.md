@@ -1,1 +1,2 @@
-# AgroCosechaPer--FrontEnd
+# LandingPageEventify
+El landing page de eventify
