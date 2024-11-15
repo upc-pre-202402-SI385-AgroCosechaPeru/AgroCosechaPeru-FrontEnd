@@ -78,20 +78,3 @@ document.querySelector('.toggle-button').addEventListener('click', function() {
   const weatherSection = document.querySelector('.weather-section');
   weatherSection.classList.toggle('expanded');
 });
-document.addEventListener('DOMContentLoaded', function() {
-    const buttonContainer = document.getElementById('button-container');
-    const chatContainer = document.getElementById('chat-container');
-    const closeButton = document.querySelector('.close-button');
-
-    buttonContainer.addEventListener('click', () => {
-        buttonContainer.style.display = 'none';
-        chatContainer.classList.add('show');
-    });
-
-    closeButton.addEventListener('click', () => {
-        chatContainer.classList.remove('show');
-        setTimeout(() => {
-            buttonContainer.style.display = 'block';
-        }, 300);
-    });
-});
