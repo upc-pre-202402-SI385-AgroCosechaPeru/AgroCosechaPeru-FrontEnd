@@ -63,18 +63,30 @@ ScrollReveal().reveal(".news__card", {
   interval: 500,
 });
 
-// Mostrar u ocultar los detalles adicionales al hacer clic en "Ver más..."
+
 document.querySelector(".more-info-toggle").addEventListener("click", (event) => {
-  event.preventDefault();  // Prevenir el comportamiento predeterminado del enlace
+  event.preventDefault(); 
 
   const extraInfo = document.querySelector(".extra-info");
   extraInfo.classList.toggle("hidden");
 
-  // Cambiar el texto del enlace entre "Ver más..." y "Ver menos..."
+  
   event.target.textContent = extraInfo.classList.contains("hidden") ? "Ver más..." : "Ver menos...";
 });
+document.addEventListener('DOMContentLoaded', function() {
+  const buttonContainer = document.getElementById('button-container');
+  const chatContainer = document.getElementById('chat-container');
+  const closeButton = document.querySelector('.close-button');
 
-document.querySelector('.toggle-button').addEventListener('click', function() {
-  const weatherSection = document.querySelector('.weather-section');
-  weatherSection.classList.toggle('expanded');
+  buttonContainer.addEventListener('click', () => {
+      buttonContainer.style.display = 'none';
+      chatContainer.classList.add('show');
+  });
+
+  closeButton.addEventListener('click', () => {
+      chatContainer.classList.remove('show');
+      setTimeout(() => {
+          buttonContainer.style.display = 'block';
+      }, 300);
+  });
 });
