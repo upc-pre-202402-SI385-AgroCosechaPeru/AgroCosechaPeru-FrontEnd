@@ -1273,6 +1273,7 @@ footer {
 }
 
 .close-btn {
+  
   position: relative;
   bottom: 93%;
   left: 96%;
@@ -1287,5 +1288,4 @@ footer {
 .close-btn:hover {
   background-color: #bd2130;
 }
-
 
