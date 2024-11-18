@@ -102,7 +102,7 @@ document.getElementById('limpiar-tarjetas').addEventListener('click', () => {
 
 // Manejo del envío del formulario
 document.getElementById('soil-analysis-form').addEventListener('submit', (event) => {
-  event.preventDefault(); 
+  event.preventDefault(); // Evitar el comportamiento predeterminado del formulario
   
   // Recopilar los datos del formulario
   const data = {
