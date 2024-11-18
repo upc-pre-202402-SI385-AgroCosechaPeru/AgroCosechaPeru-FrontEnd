@@ -102,7 +102,7 @@ document.getElementById('limpiar-tarjetas').addEventListener('click', () => {
 
 // Manejo del envío del formulario
 document.getElementById('soil-analysis-form').addEventListener('submit', (event) => {
-  event.preventDefault(); // Evitar el comportamiento predeterminado del formulario
+  event.preventDefault(); 
   
   // Recopilar los datos del formulario
   const data = {
@@ -131,5 +131,26 @@ toggleFormButton.addEventListener('click', () => {
     formContainer.classList.add('hidden');
     toggleFormButton.textContent = 'Ver más...';
   }
+});
+
+document.addEventListener('DOMContentLoaded', function() {
+  const loginBtn = document.getElementById('login-btn');
+  const overlay = document.getElementById('overlay');
+  const closeBtn = document.getElementById('close-btn');
+
+  loginBtn.addEventListener('click', function(e) {
+    e.preventDefault();
+    overlay.classList.remove('hidden');
+  });
+
+  closeBtn.addEventListener('click', function() {
+    overlay.classList.add('hidden');
+  });
+
+  overlay.addEventListener('click', function(e) {
+    if (e.target === overlay) {
+      overlay.classList.add('hidden');
+    }
+  });
 });
 
