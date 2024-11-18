@@ -90,3 +90,46 @@ document.addEventListener('DOMContentLoaded', function() {
       }, 300);
   });
 });
+
+// Botón para limpiar parámetros
+document.getElementById('limpiar-tarjetas').addEventListener('click', () => {
+  const form = document.getElementById('soil-analysis-form');
+  
+  // Limpiar todos los campos del formulario
+  form.reset();
+  alert("Parámetros limpiados correctamente.");
+});
+
+// Manejo del envío del formulario
+document.getElementById('soil-analysis-form').addEventListener('submit', (event) => {
+  event.preventDefault(); // Evitar el comportamiento predeterminado del formulario
+  
+  // Recopilar los datos del formulario
+  const data = {
+    ph: document.getElementById('ph').value,
+    nitrogen: document.getElementById('nitrogen').value,
+    phosphorus: document.getElementById('phosphorus').value,
+    potassium: document.getElementById('potassium').value,
+    cultivo: document.getElementById('cultivo').value,
+    notas: document.getElementById('notas').value
+  };
+  
+  console.log("Datos enviados:", data);
+  alert("Formulario enviado correctamente.");
+});
+
+// Funcionalidad para expandir/colapsar el formulario completo
+const toggleFormButton = document.getElementById('toggle-form');
+const formContainer = document.getElementById('form-container');
+
+// El formulario comienza oculto y se muestra al hacer clic
+toggleFormButton.addEventListener('click', () => {
+  if (formContainer.classList.contains('hidden')) {
+    formContainer.classList.remove('hidden');
+    toggleFormButton.textContent = 'Ver menos...';
+  } else {
+    formContainer.classList.add('hidden');
+    toggleFormButton.textContent = 'Ver más...';
+  }
+});
+
