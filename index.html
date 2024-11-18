@@ -51,8 +51,56 @@
             <div>
               <h4>Informacion sobre tus de suelos</h4>
               <p>Conoce mas sobre la fertilidad de tus suelos</p>
+            <a id="toggle-form" href="#" class="toggle-link">Ver más...</a>
             </div>
-            <h3>Ver mas...</h3>
+            <main>
+              <!-- Contenedor que empieza oculto -->
+              <section id="form-container" class="hidden">
+                <!-- Formulario para análisis del suelo -->
+                <form id="soil-analysis-form">
+                  <fieldset>
+                    <legend>Parámetros del Suelo</legend>
+                    
+                    <label for="ph">pH del Suelo:</label>
+                    <input type="number" id="ph" name="ph" step="0.1" min="0" max="14" placeholder="Ejemplo: 6.5" required>
+                    
+                    <label for="nitrogen">Nitrógeno (ppm):</label>
+                    <input type="number" id="nitrogen" name="nitrogen" placeholder="Ejemplo: 20" required>
+                    
+                    <label for="phosphorus">Fósforo (ppm):</label>
+                    <input type="number" id="phosphorus" name="phosphorus" placeholder="Ejemplo: 15" required>
+                    
+                    <label for="potassium">Potasio (ppm):</label>
+                    <input type="number" id="potassium" name="potassium" placeholder="Ejemplo: 10" required>
+                  </fieldset>
+          
+                  <fieldset>
+                    <legend>Cultivos Actuales</legend>
+                    
+                    <label for="cultivo">Seleccione un Cultivo:</label>
+                    <select id="cultivo" name="cultivo" required>
+                      <option value="" disabled selected>--Seleccione--</option>
+                      <option value="maiz">Maíz</option>
+                      <option value="trigo">Trigo</option>
+                      <option value="soja">Soja</option>
+                      <option value="arroz">Arroz</option>
+                    </select>
+                  </fieldset>
+          
+                  <fieldset>
+                    <legend>Notas Explicativas</legend>
+                    
+                    <textarea id="notas" name="notas" rows="5" placeholder="Notas sobre fertilidad y productividad..." required></textarea>
+                  </fieldset>
+          
+                  <!-- Botones de acción -->
+                  <div class="form-actions">
+                    <button type="button" id="limpiar-tarjetas">Limpiar Parámetros</button>
+                    <button type="submit" id="enviar-formulario">Enviar</button>
+                  </div>
+                </form>
+              </section>
+              </main>
           </div>
         </div>
         <div class="room__card">
