@@ -1289,3 +1289,50 @@ footer {
   background-color: #bd2130;
 }
 
+#crop-recommendations-container {
+  padding: 1rem;
+  background-color: var(--white);
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  margin-top: 1rem;
+}
+
+#crop-recommendations-container fieldset {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin-bottom: 1rem;
+  padding: 10px;
+}
+
+#crop-recommendations-container legend {
+  font-weight: bold;
+  color: var(--text-dark);
+}
+
+#crop-recommendations-container textarea {
+  width: 100%;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  padding: 0.5rem;
+  font-size: 1rem;
+}
+
+#crop-recommendations-container .form-actions {
+  display: flex;
+  gap: 1rem;
+}
+
+#crop-recommendations-container button {
+  padding: 0.5rem 1rem;
+  background-color: var(--secondary-color);
+  color: var(--white);
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+#crop-recommendations-container button:hover {
+  background-color: #f6b23e;
+}
+
+
