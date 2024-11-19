@@ -149,8 +149,28 @@
             <div>
               <h4>Recomendaciones de cultivos</h4>
               <p>Descubre qué cultivos son más adecuados para tu terreno</p>
+              <a href="#" id="toggle-crop-recommendations" class="toggle-link">Ver más...</a>
             </div>
-            <h3>Ver mas...</h3>
+            <!-- Cuadro de información adicional -->
+            <section id="crop-recommendations-container" class="hidden">
+              <fieldset>
+                <legend>Recomendaciones y Explicaciones</legend>
+                <p>Basándonos en el análisis del suelo y las condiciones climáticas, se recomiendan los siguientes cultivos:</p>
+                <ul>
+                  <li>Maíz: Ideal para suelos ligeramente ácidos (pH 6-7).</li>
+                  <li>Trigo: Requiere suelos bien drenados y ricos en nitrógeno.</li>
+                  <li>Arroz: Excelente para suelos inundados o arcillosos.</li>
+                </ul>
+              </fieldset>
+              <fieldset>
+                <legend>Notas Explicativas</legend>
+                <textarea rows="5" placeholder="Escribe tus observaciones sobre las recomendaciones..." id="crop-notes"></textarea>
+              </fieldset>
+              <div class="form-actions">
+                <button type="button" id="clear-recommendation-notes">Limpiar Notas</button>
+                <button type="button" id="save-recommendation-notes">Guardar Notas</button>
+              </div>
+            </section>
           </div>
         </div>
        <div class="room__card">
