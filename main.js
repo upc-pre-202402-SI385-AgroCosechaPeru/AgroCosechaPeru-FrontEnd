@@ -123,7 +123,9 @@ const toggleFormButton = document.getElementById('toggle-form');
 const formContainer = document.getElementById('form-container');
 
 // El formulario comienza oculto y se muestra al hacer clic
-toggleFormButton.addEventListener('click', () => {
+toggleFormButton.addEventListener('click', (event) => {
+  event.preventDefault(); // Evita que la página se desplace al menú inicial.
+
   if (formContainer.classList.contains('hidden')) {
     formContainer.classList.remove('hidden');
     toggleFormButton.textContent = 'Ver menos...';
@@ -154,3 +156,23 @@ document.addEventListener('DOMContentLoaded', function() {
   });
 });
 
+const toggleCropRecommendations = document.getElementById('toggle-crop-recommendations');
+const cropRecommendationsContainer = document.getElementById('crop-recommendations-container');
+
+toggleCropRecommendations.addEventListener('click', (event) => {
+  event.preventDefault();
+
+  const isHidden = cropRecommendationsContainer.classList.contains('hidden');
+  cropRecommendationsContainer.classList.toggle('hidden');
+  toggleCropRecommendations.textContent = isHidden ? 'Ver menos...' : 'Ver más...';
+});
+
+document.getElementById('clear-recommendation-notes').addEventListener('click', () => {
+  document.getElementById('crop-notes').value = '';
+  alert('Notas limpiadas correctamente.');
+});
+
+document.getElementById('save-recommendation-notes').addEventListener('click', () => {
+  const notes = document.getElementById('crop-notes').value;
+  alert(`Notas guardadas: ${notes}`);
+});
