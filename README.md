@@ -188,8 +188,6 @@ Finalmente, se llevaron a cabo pruebas exhaustivas para garantizar la calidad de
 
 A continuación, se presentan capturas de los informes de colaboración en GitHub, donde se puede observar la participación de cada integrante en cuanto a commits y contribuciones.
 
-### 5.2.2. Sprint 2
 
-El Sprint 2 estuvo centrado en el despliegue completo del frontend de la aplicación **Eventify**, incluyendo la implementación de características avanzadas en la interfaz de usuario, la optimización de rendimiento y la configuración de entornos de desarrollo y producción. Este sprint fue clave para preparar el proyecto para su uso en entornos reales, asegurando un flujo continuo de integración y despliegue.
   
 
