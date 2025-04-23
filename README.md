@@ -26,3 +26,19 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 | Integrante 2 | x |
 | Integrante 4 | x |
 | Integrante 5 | x |
+
+capturas/imagenes de evidencia
+Evidencia de la creacion del repositorio de trabajo. Enlace del repossitorio: 
+
+Creacion de las ramas de trabajo (branchs):
+
+Commits de evidencia del trabajo:
+
+### 5.1.3. Source Code Style Guide & Conventions
+El código seguirá las convenciones de BEM (Block Element Modifier) para la estructura de CSS, HTML y JavaScript. Se aplicarán las siguientes guías de estilo: 
+- HTML: Basado en Google HTML/CSS Style Guide.
+- CSS: Convención BEM para organización y nomenclatura.
+- JavaScript: Se respetarán buenas prácticas recomendadas en el Google JavaScript Style Guide.
+- Gherkin: Se adoptará un formato claro y legible, siguiendo Gherkin Conventions for Readable Specifications.
+  
+
