@@ -54,17 +54,17 @@ Y por ultimo se carga todo y se genera un enlace de pagina web donde esta se enc
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
 
-Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto Eventify. Este sprint marcó el inicio de la construcción de la interfaz inicial que los usuarios verán al acceder a la plataforma. Este esfuerzo fue crucial para establecer la estética y la estructura de nuestra página de inicio, asegurando que cumpliera con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
+Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing page para el proyecto. Este sprint marcó el inicio de la construcción de la interfaz inicial que los usuarios verán al acceder a la plataforma. Este esfuerzo fue crucial para establecer la estética y la estructura de nuestra página de inicio, asegurando que cumpliera con los requisitos de diseño moderno y funcionalidad necesarios para captar la atención de los usuarios y proporcionar una primera impresión efectiva.
 
 #### 5.2.1.1. Sprint Planning 1
 
 | **Sprint #**                        | 1                                                                                              |
 |-----------------------------------|------------------------------------------------------------------------------------------------|
-| **Date**                           | 2024-08-30                                                                                     |
+| **Date**                           |                                                                                    |
 | **Time**                           | 11:00 AM                                                                                       |
 | **Location**                       | Zoom Meetings                                                                                  |
-| **Prepared By**                    | Ramiro Guzmán                                                                                   |
-| **Attendees (to planning meeting)**| Guzmán Chávez Alexander Ramiro - U202217062 <br> Huamán Aguilar Jhon Rony - U20211D859 <br> Muñoz Vilcapoma Mauricio Rigoberto - U202217212 <br> Velarde Luyo Piero Alberto - U20211A620 <br> Zevallos Linares Alessandro Netto - U202216035 |
+| **Prepared By**                    |                                                                                   |
+| **Attendees (to planning meeting)**| |
 
 **Introducción:**
 
@@ -72,7 +72,7 @@ El equipo se reunió para planificar el Sprint 1 del proyecto Eventify, cuyo enf
 
 **Sprint Goal:**
 
-Nuestro enfoque está en **diseñar e implementar la página de destino**. Creemos que ofrece **una interfaz de usuario funcional y visualmente atractiva** para **usuarios potenciales de Eventify**. Esto se confirmará cuando **la página pase revisiones internas y cumpla con los requisitos de coherencia del diseño y elementos interactivos**.
+Nuestro enfoque está en **diseñar e implementar la página de destino**. Creemos que ofrece **una interfaz de usuario funcional y visualmente atractiva** para **usuarios potenciales**. Esto se confirmará cuando **la página pase revisiones internas y cumpla con los requisitos de coherencia del diseño y elementos interactivos**.
 
 **Sprint 1 Velocity:**  
 El equipo ha acordado un total de **20 puntos** de velocidad para este sprint, basándose en la capacidad y disponibilidad de los miembros del equipo.
@@ -98,12 +98,12 @@ El objetivo principal de este sprint es completar la estructura y los elementos 
 
 | **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
 |--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
-| US001        | Definir estructura de la landing page     | T001    | Crear estructura HTML          | Implementar la estructura básica de la landing page en HTML.       | 4                      | Ramiro Guzman        | Done       |
-| US001        | Definir estructura de la landing page     | T002    | Estilizar con CSS              | Aplicar el diseño visual utilizando CSS, siguiendo los lineamientos del proyecto. | 6                      | Mauricio Muñoz         | Done       |
-| US002        | Implementar elementos interactivos        | T003    | Configurar carrusel de imágenes | Desarrollar el componente de carrusel para mostrar imágenes en la landing page. | 5                      | Ramiro Guzman        | Done       |
-| US002        | Implementar elementos interactivos        | T004    | Crear formularios de contacto  | Crear y validar los formularios de contacto en la landing page.    | 3                      | Piero Velarde        | Done       |
-| US003        | Pruebas y ajustes finales                 | T005    | Realizar pruebas de funcionalidad | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Alessandro Zevallos       | Done       |
-| US003        | Pruebas y ajustes finales                 | T006    | Ajustar según feedback         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Jhon Huamani        | Done       |
+| US001        | Definir estructura de la landing page     | T001    | Crear estructura HTML          | Implementar la estructura básica de la landing page en HTML.       | 4                      |         |       |
+| US001        | Definir estructura de la landing page     | T002    | Estilizar con CSS              | Aplicar el diseño visual utilizando CSS, siguiendo los lineamientos del proyecto. | 6                      |          |       |
+| US002        | Implementar elementos interactivos        | T003    | Configurar carrusel de imágenes | Desarrollar el componente de carrusel para mostrar imágenes en la landing page. | 5                      |        |        |
+| US002        | Implementar elementos interactivos        | T004    | Crear formularios de contacto  | Crear y validar los formularios de contacto en la landing page.    | 3                      |         |       |
+| US003        | Pruebas y ajustes finales                 | T005    | Realizar pruebas de funcionalidad | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      |         |        |
+| US003        | Pruebas y ajustes finales                 | T006    | Ajustar según feedback         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      |        |      |
 
 #### 5.2.X.3. Development Evidence for Sprint Review
 En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 1 indicando el repositorio en la cual se trabajo las ramas que se usaron dentro de dicho repositorio, el id con su mensaje y la fecha en la que se realizo de esta manera tener un registro del avance de los task planteados.
