@@ -16,3 +16,13 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 | Figma              | Plataforma para el diseño de interfaces y elaboración de prototipos interactivos.                                          | [Figma](https://www.figma.com/es-la/downloads/)                                              |
 | GitHub Pages       | Plataforma que facilita el despliegue sencillo de páginas web directamente desde repositorios de GitHub.                   | [GitHub Pages](https://pages.github.com/)                                                    |
 | Markdown           | Lenguaje de marcado que permite la documentación técnica, utiliza un formato de texto sencillo fácil de convertir en HTML. | [Markdown Guide](https://www.markdownguide.org/) 
+
+
+### 5.1.2. Source Code Management
+| Nombre completo | Nombre de la cuenta|
+| ------------------ |------------------------- |
+| Integrante 1 | 
+| Integrante 2 | x | 
+| Integrante 2 | x |
+| Integrante 4 | x |
+| Integrante 5 | x |
