@@ -21,11 +21,10 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 ### 5.1.2. Source Code Management
 | Nombre completo | Nombre de la cuenta|
 | ------------------ |------------------------- |
-| Integrante 1 | 
-| Integrante 2 | x | 
-| Integrante 2 | x |
-| Integrante 4 | x |
-| Integrante 5 | x |
+| Integrante 1 | JuanqQuijano
+| Integrante 2 | JhonHuam | 
+| Integrante 2 | melinaasantillan |
+| Integrante 4 | SantiIHC |
 
 capturas/imagenes de evidencia
 Evidencia de la creacion del repositorio de trabajo. Enlace del repossitorio: 
