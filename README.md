@@ -73,7 +73,6 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 El equipo se reunió para planificar el Sprint 1 del proyecto, cuyo enfoque principal es la creación de la landing page. La planificación incluyó la definición de las User Stories y la asignación de Story Points para determinar la velocidad del equipo y asegurarse de que las tareas clave se completen dentro del tiempo estimado.
 
 **Sprint Goal:**
-
 Nuestro enfoque está en **diseñar e implementar la página de destino**. Creemos que ofrece **una interfaz de usuario funcional y visualmente atractiva** para **usuarios potenciales**. 
 
 **Sprint 1 Velocity:**  
@@ -84,13 +83,15 @@ El equipo ha asignado un total de **27 puntos** distribuidos en **3 User Stories
 
 | **Sprint 1 – 1 Review Summary**        | Landing Page.                                                                                     |
 |----------------------------------------|---------------------------------------------------------------------------------------------------|
-| **Sprint 1 – 1 Retrospective Summary** | Basado en la retroalimentación del Sprint anterior, se identificaron áreas clave para mejorar la eficiencia del equipo y la calidad del producto. La revisión de la landing page reveló que, aunque se cumplieron los objetivos iniciales, hubo desafíos en la integración de elementos interactivos y en la consistencia del diseño visual. El equipo acordó que era crucial abordar estos problemas en el próximo sprint para asegurar una experiencia de usuario fluida. Además, se decidió implementar revisiones más frecuentes y establecer una documentación más clara del proceso para evitar malentendidos y mejorar la colaboración. La planificación del Sprint 1 se centra en aplicar estas lecciones aprendidas, optimizando el diseño y la funcionalidad de la landing page para cumplir con los estándares de calidad y las expectativas del Product Owner. |
+| **Sprint 1 – 1 Retrospective Summary** | Tras la culminacion de este sprint, se identificaron áreas clave para mejorar la eficiencia del equipo y la calidad del producto. La revisión de la landing page reveló que, aunque se cumplieron los objetivos iniciales, hubo desafíos en la integración de elementos interactivos y en la consistencia del diseño visual. El equipo acordó que era crucial abordar estos problemas en el próximo sprint para asegurar una experiencia de usuario fluida. Además, se decidió implementar revisiones más frecuentes y establecer una documentación más clara del proceso para evitar malentendidos y mejorar la colaboración. |
 
 
 #### 5.2.2.2. Sprint Backlog 1
 
 **Objetivo del Sprint**
 El objetivo principal de este sprint es completar la estructura y los elementos interactivos de la landing page, aplicando estilos visuales consistentes y asegurando la funcionalidad de los formularios y el carrusel de imágenes. Se busca que la página sea completamente operativa y esté lista para las pruebas finales de usabilidad y ajuste, basándose en el feedback recibido.
+
+PONER LINK TRELLO AQUI+ CAPTURA
 
 | **Sprint #** | **Sprint 1** |
 |--------------|--------------|
