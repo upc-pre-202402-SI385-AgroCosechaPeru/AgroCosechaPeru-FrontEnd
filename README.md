@@ -74,13 +74,13 @@ El equipo se reunió para planificar el Sprint 1 del proyecto, cuyo enfoque prin
 
 **Sprint Goal:**
 
-Nuestro enfoque está en **diseñar e implementar la página de destino**. Creemos que ofrece **una interfaz de usuario funcional y visualmente atractiva** para **usuarios potenciales**. Esto se confirmará cuando **la página pase revisiones internas y cumpla con los requisitos de coherencia del diseño y elementos interactivos**.
+Nuestro enfoque está en **diseñar e implementar la página de destino**. Creemos que ofrece **una interfaz de usuario funcional y visualmente atractiva** para **usuarios potenciales**. 
 
 **Sprint 1 Velocity:**  
 El equipo ha acordado un total de **20 puntos** de velocidad para este sprint, basándose en la capacidad y disponibilidad de los miembros del equipo.
 
 **Sum of Story Points:**  
-El equipo ha asignado un total de **20 puntos** distribuidos en **6 User Stories**.
+El equipo ha asignado un total de **27 puntos** distribuidos en **3 User Stories**.
 
 | **Sprint 1 – 1 Review Summary**        | Landing Page.                                                                                     |
 |----------------------------------------|---------------------------------------------------------------------------------------------------|
