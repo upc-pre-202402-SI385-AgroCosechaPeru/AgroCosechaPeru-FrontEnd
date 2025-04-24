@@ -26,12 +26,15 @@ En esta sección, se definen las herramientas utilizadas en cada fase del desarr
 | Integrante 2 | melinaasantillan |
 | Integrante 4 | SantiIHC |
 
-capturas/imagenes de evidencia
-Evidencia de la creacion del repositorio de trabajo. Enlace del repossitorio: 
+Evidencia de la creacion del repositorio de trabajo: 
+![Captura de pantalla 2025-04-24 055040](https://github.com/user-attachments/assets/23776c45-e88a-4fe8-8391-72db89dd5f8b)
 
 Creacion de las ramas de trabajo (branchs):
+![brach](https://github.com/user-attachments/assets/05ed2b89-c25a-427c-9c40-46d9ce7399b3)
 
 Commits de evidencia del trabajo:
+(PENDIENTE PARA EL FINAL)
+Enlace del repositorio: https://github.com/AplicacionesWebGrupo1/AppWebGrupo1_proyecto
 
 ### 5.1.3. Source Code Style Guide & Conventions
 El código seguirá las convenciones de BEM (Block Element Modifier) para la estructura de CSS, HTML y JavaScript. Se aplicarán las siguientes guías de estilo: 
@@ -46,9 +49,9 @@ Nuestro proyecto está alojado en un repositorio de GitHub y para el despliegue 
 
 Se a subido todos los archivos que conforman en landign Page, tanto como los archivos HTML, CSS y JS.
 
-
+(PENDIENTE PARA EL FINAL)
 Y por ultimo se carga todo y se genera un enlace de pagina web donde esta se encuentra nuestro landing Page
-
+(PENDIENTE PARA EL FINAL)
 
 ## 5.2. Landing Page, Services & Applications Implementation
 ### 5.2.1. Sprint 1
@@ -59,11 +62,11 @@ Durante el Sprint 1, nuestro enfoque principal fue el desarrollo de la landing p
 
 | **Sprint #**                        | 1                                                                                              |
 |-----------------------------------|------------------------------------------------------------------------------------------------|
-| **Date**                           |                                                                                    |
-| **Time**                           | 11:00 AM                                                                                       |
+| **Date**                           | 22/04/2025                                                                                   |
+| **Time**                           | 11:30 AM                                                                                       |
 | **Location**                       | Zoom Meetings                                                                                  |
-| **Prepared By**                    |                                                                                   |
-| **Attendees (to planning meeting)**| |
+| **Prepared By**                    | Juan Quijano                                                                                  |
+| **Attendees (to planning meeting)**| Santiago Alonso, Jhon Huamani, Melina Santillan|
 
 **Introducción:**
 
