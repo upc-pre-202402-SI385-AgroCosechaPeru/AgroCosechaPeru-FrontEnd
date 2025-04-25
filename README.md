@@ -114,12 +114,19 @@ En esta seccion se busca detallar el proceso por la cual se trabajo el Sprint 1 
 
 | Repository          | Branch            | Commit Id | Commit Message           | Commit Message Body            | Committed on (Date) |
 |---------------------|-------------------|-----------|--------------------------|--------------------------------|---------------------|
-|   |             | 6dfd1ead416b49e9fab0b7362219965534945ad4       | Update README.md          |  |          |
-|   |             | 025d465422e53cb1222091ea25e39f4303273779       | Delete css directory      |  |          |
-|   |            | 5bb2aa9b6f8310e7363b0b912cc2d07558470961       | Add files via upload      |  |         |
-|   |            | ada6c0c2ad75e98ea1aef9cfcce1fdf820dc6d34       | Add files via upload      |  |         |
-|   |             | b85cd8f99c7f2a4c1dd72afa9d18bb3c34f554f4       | Initial commit            |  |          |
-|   | feature/responsive-design  | 7e4d9bc2f9a730e1548b1a72da3f048fc94372f1       | Add responsive design               |        |         |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 095c8984d560b6c89642c83e6fa0aa174cd479c3      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5d9df57242224132e812e6d1d08ac9ff04444a1f      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 50ea5bbbc28ddc5da6e4d9733d9de741da2284c8      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 515954cabfa0b51af2711f0abbccf02df94ac5d6      | Update styles.css       | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/main.js    | 97254fa5eeddcd3edf48b9d46c1da7b777a51a96      | Update main.js          | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 10079f0bb29125287d2f032d1ea0b855486947af      | Add responsive design   | -- | 25/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 6b4e5c3c8c9f7200656f8833f63a0349d96b923e      | Add responsive design   | -- | 24/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/styles.css | 5fed89d466e536fe1a3269b6576d2d47c1d423b6      | Add responsive design   | -- | 24/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop/index.html | b3159128247b46f26ec225fc5bc39d128d491866      | Update index.html       | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | develop            | 88b6d6d75da22b1771d8b680253758cb5578f4ef      | Add files via upload    | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | main               | 298312a3c7a372ee2a7dc252817d8f7035d34533      | added develop           | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | readme             | e6be8918dfc08256936e9563665d49f44c940bd5      | Update readme           | -- | 23/04/2024  |
+| https://github.com/AplicacionesWebGrupo1/Landing-page-CicloVia  | main               | cbbecf0db5b33c18c395ec0afbc752ae79526204      | Initial commit          | -- | 23/04/2024  |
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review
 
