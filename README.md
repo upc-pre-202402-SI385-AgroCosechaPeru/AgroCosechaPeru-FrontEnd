@@ -91,7 +91,7 @@ El equipo ha asignado un total de **27 puntos** distribuidos en **3 User Stories
 **Objetivo del Sprint**
 El objetivo principal de este sprint es completar la estructura y los elementos interactivos de la landing page, aplicando estilos visuales consistentes y asegurando la funcionalidad de los formularios y el carrusel de imágenes. Se busca que la página sea completamente operativa y esté lista para las pruebas finales de usabilidad y ajuste, basándose en el feedback recibido.
 
-PONER LINK TRELLO AQUI+ CAPTURA
+Enlace al tablero de trello: https://trello.com/b/iRvxX7bk/grupo-1-ciclovia
 
 | **Sprint #** | **Sprint 1** |
 |--------------|--------------|
