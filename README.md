@@ -198,4 +198,19 @@ Finalmente, se llevaron a cabo pruebas exhaustivas para garantizar la calidad de
 ### Analíticos de Colaboración
 
 A continuación, se presentan capturas de los informes de colaboración en GitHub, donde se puede observar la participación de cada integrante en cuanto a commits y contribuciones.
+| # Orden | User Story Id | Título | Descripción | Story Points (1 / 2 / 3 / 5 / 8) |
+|:-------:|:-------------:|:------:|:-----------:|:-------------------------------:|
+| 1 | US01 | Personalización Glamping | Como viajero joven que busca desconexión en la naturaleza quiero personalizar mi experiencia de glamping según mis gustos para sentir que el viaje es único y hecho a mi medida. | 5 |
+| 2 | US02 | Glamping Asequible | Como usuaria con presupuesto limitado quiero encontrar opciones de glamping asequibles fuera de los destinos típicos, para poder vivir una experiencia única sin gastar demasiado. | 5 |
+| 3 | US03 | Navegación Plataforma | Como usuario primerizo en la plataforma quiero navegar fácilmente por la plataforma y entender cada paso de la reserva, para sentirme seguro y confiado al hacer mi primera compra. | 3 |
+| 4 | US04 | Filtros de Escapadas | Como viajero que quiere escapar un fin de semana quiero poder filtrar experiencias según fechas disponibles y distancia desde mi ubicación, para planear escapadas cortas sin complicaciones. | 5 |
+| 5 | US05 | Reseñas y Calificaciones | Como usuario que desconfía de nuevas plataformas quiero ver reseñas y calificaciones de otros viajeros sobre cada experiencia, para tomar decisiones con mayor confianza. | 3 |
+| 6 | US06 | Fotos Reales | Como cliente que busca confort y naturaleza quiero ver fotos reales del alojamiento, sus servicios y el entorno, para tener expectativas claras de lo que voy a recibir. | 3 |
+| 7 | US07 | Recomendaciones Personalizadas | Como explorador que ya viajó con ustedes quiero tener recomendaciones para seguir descubriendo nuevos destinos que se adapten a mí. | 5 |
+| 8 | US08 | Registro Anfitriones | Como emprendedora rural con un terreno atractivo quiero registrarme fácilmente en la plataforma con ayuda técnica, para poder ofrecer mi espacio sin complicaciones. | 5 |
+| 9 | US09 | Impulso al Turismo Local | Como parte de una comunidad alejada de los destinos turísticos quiero que la plataforma me ayude a atraer visitantes a mi región, para impulsar el turismo local y generar ingresos sostenibles. | 8 |
+| 10 | US10 | Notificaciones a Anfitriones | Como anfitrión con poca experiencia digital quiero recibir notificaciones para sentirme acompañado en todo momento. | 3 |
+| 11 | US11 | Contar Historia Local | Como anfitrión que quiere destacar su experiencia quiero poder contar mi historia y mostrar los valores de mi comunidad en mi perfil, para conectar con los viajeros. | 5 |
+| 12 | US12 | Acceso a Comentarios | Como emprendedor que quiere crecer quiero acceder a reservas y comentarios, para entender cómo mejorar mi oferta y atraer más clientes. | 3 |
+| 13 | US13 | Comunidad de Anfitriones | Como miembro de una comunidad con otros anfitriones quiero poder colaborar y aprender de otros emprendedores en la red, para fortalecer nuestras capacidades y generar impacto juntos. | 5 |
 
