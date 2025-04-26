@@ -1,59 +1,6 @@
-| Team Member (Last Name, First Name) | GitHub Username   | Navigation Bar Leader (L) / Collaborator (C) | Benefits Section Leader (L) / Collaborator (C) | About Us Section Leader (L) / Collaborator (C) | Social Media & Footer Leader (L) / Collaborator (C) | Contact Section Leader (L) / Collaborator (C) |
-|-------------------------------------|-------------------|----------------------------------------------|------------------------------------------------|-------------------------------------------------|------------------------------------------------------|-----------------------------------------------|
-| Daniel Elias Ruiz Huisa         | RuizDan           | L                     | C                     | C                     | L                     | C                     |
-| Carlos Humberto Zarate Peña     | U202315966        | C                     | L                     | C                     | C                     | L                     |
-| Jhon Rony Huamani Aguilar       | JhonHuam          | C                     | C                     | L                     | C                     | C                     |
-| Juan Miguel Quijano Calderon    | JuanqQuijano      | C                     | C                     | C                     | L                     | C                     |
-| Poly Gabriel Alcantara Baldeon  | GabrielAlba24     | C                     | L                     | C                     | C                     | L                     |
-
-
-
-
-#### 5.2.1.2. Sprint Backlog 1.
-
-
-| **Sprint #** | **Sprint 1** |
-|--------------|--------------|
-
-| **User Story** | **Work-Item / Task** |
-|--------------|--------------|
-
-| **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
-|--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
-| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app     | T001    | Crear estructura HTML          | Implementar la estructura básica de la landing page en HTML      | 4                      | Santiago Gordillo        | Done      |
-| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app     | T002    | Estilizar con CSS              | Aplicar el diseño visual utilizando CSS, siguiendo los lineamientos del proyecto. | 6                      | Jhon Huamani          | Done     |
-| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app       | T003    | Configurar carrusel de imágenes | Incluir secciones informativas sobre la aplicación (uso, beneficios, etc.) | 5                      | Juan Quijano       | Done       |
-| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app        | T004    | Crear formularios de contacto  | Implementar sección de contacto con datos y formulario para soporte.    | 3                      | Melina Santillan        | Done      |
-| US002        | Como ciclista quiero interactuar con elementos dinámicos para explorar de forma sencilla las funcionalidades de la aplicación                 | T005    | Configurar carrusel de imágenes | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Juan Quijano         | Done       |
-| US002        | Como ciclista quiero interactuar con elementos dinámicos para explorar de forma sencilla las funcionalidades de la aplicación                 | T006    | Agregar animaciones al desplazarse         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Santiago Gordillo       | Done     |
-| US002        | Como ciclista quiero interactuar con elementos dinámicos para explorar de forma sencilla las funcionalidades de la aplicación                                          | T007            | implementación de botones dentro de la landing page                               | Se agregan los botones con las funcionalidades escenciales de la app                                                                        | 3                       | Jhon Huamani       |Done
-
------------
-| **Sprint #** | **Sprint 1** |
-|--------------|--------------|
-
-| **User Story** | **Work-Item / Task** |
-|--------------|--------------|
-
-| **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
-|--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
- | US01 | Barra de navegación en la Landing Page     | TS01 |Barra de navegación en la Landing Page (Desarrollado en HTML, CSS y JS).| Implementación del header y la barra de navegación, desarrollados en HTML, CSS y JS con diseño responsive. | 8                  | Farid | Done                                   |
- | US02 | 	Sección de beneficios de la Aplicación   | TS02 | Sección de beneficios (Desarrollado en HTML, CSS y JS).|Desarrollar una sección que destaque los beneficios clave de RideFind utilizando HTML, CSS, y componentes reutilizables con diseño responsive. | 6                | Jose | Done                                   |
- | US03 | Información sobre Nosotros           | TS03 | Sección de suscripciones (Desarrollado en HTML, CSS y JS).| Implementar la sección "Sobre Nosotros", mostrando información clave de la empresa con diseño responsive y optimización para dispositivos móviles y tablets. | 4                 | Jhon   | Done                                   |
- | US04 | Redes Sociales y Footer | TS04 | RRedes Sociales y Footer (Desarrollado en HTML, CSS y JS).| Crear un footer con enlaces a redes sociales, optimizado para diferentes resoluciones de pantalla, asegurando su visibilidad en todo tipo de dispositivos.| 4 | Cristhian | Done
- | US05 | Sección de contacto | TS04 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4 | Jefrey | Done
-
-#### 5.2.1.3. Development Evidence for Sprint Review.
-
-| Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
-|:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| RideFind | main | 7f2e29691448144300e3a8c4a1a6078841206486 | Initial commit |  | 07/09/2024 |
-| Landing | develop | 45ebb06fb1cd8f33405b7545ce698b0f39848447 | feat: add footer |  | 07/09/2024 |
-| Landing | develop | 9841da5fd418fe9618ea0a58a9b45ab3a4a943f1 | feat: Add Customers feedback |  | 07/09/2024 |
-| Landing | develop | 87aea777d2da7e056a3f63bda68a52f52e7a4c9a | feat: added service |  | 07/09/2024 |
-| Landing | develop | a0cab30644d8c7166c7f5d31f8d63541dd33f718 | Add: Update section 1 index.html |  | 07/09/2024 |
-| Landing | develop | c0c2c323a498f48408239ba36bc2b9179806d638 | feat: Add headers |  | 07/09/2024 |
-| Landing | develop  | 8c13ce84d24ccdd7d924dbd58d03917cfe49bb3c | feat: Update styles |  | 07/09/2024 |
+5.2.1.6. Services Documentation Evidence for Sprint Review.
+5.2.1.7. Software Deployment Evidence for Sprint Review.
+5.2.1.8. Team Collaboration Insights during Sprint.
 
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
 
@@ -61,8 +8,13 @@ Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando 
 
 | Repository | Branch | Commit Id | Commit <br>Message | Commit <br>Message Body | Commited <br>on (Date) |
 |:-------------:|:---------------:|:-------------:|:-------------:|:---------------:|:-------------:|
-| RideLink | main | a4398b440f4935619dccd14ee2c75b8815409834 | Initial commit |  | 07/09/2024 |
-|  | main | de33ade90354d7ca9156ec92f80d2747d1335edc | feat: add .feature in Epic-01 |  | 07/09/2024 |
+|  | main | a4398b440f4935619dccd14ee2c75b8815409834 | Initial commit |  | 25/04/2025 |
+|  | | de33ade90354d7ca9156ec92f80d2747d1335edc |  | -- | 25/04/2025 |
+|  | | de33ade90354d7ca9156ec92f80d2747d1335edc |  | -- | 25/04/2025 |
+|  | | de33ade90354d7ca9156ec92f80d2747d1335edc |  | -- | 25/04/2025 |
+|  | | de33ade90354d7ca9156ec92f80d2747d1335edc |  | -- | 25/04/2025 |
+|  | | de33ade90354d7ca9156ec92f80d2747d1335edc |  | -- | 25/04/2025 |
+|  | | de33ade90354d7ca9156ec92f80d2747d1335edc |  | -- | 25/04/2025 |
 
 #### 5.2.1.5. Execution Evidence for Sprint Review.
 
