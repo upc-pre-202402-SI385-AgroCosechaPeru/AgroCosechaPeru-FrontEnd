@@ -21,121 +21,29 @@ Estas convenciones nos ayudan a mantener el código organizado, legible y cohere
 
 ![Gherkin5](img/Chapter05/feature05.png)
 
-#### 5.1.4. Software Deployment Configuration.
 
-Explicaremos cómo realizar el despliegue de nuestra Landing Page utilizando el servicio automatizado en la nube de GitHub Pages. A continuación, detallaremos los pasos necesarios para lograr este proceso.<br>
-
-1. Es fundamental asegurarnos de que la configuración del repositorio sea correcta, ya que será desplegado posteriormente con GitHub Pages:<br>
-<br>
-
-![deployment1](img/Chapter05/deployment01.png)
-
-<br>
-<br>
-2. Accedemos a GitHub Pages:
-<br>
-<br>
-
-![deployment2](img/Chapter05/deployment02.png)
-
-<br>
-<br>
-3. Tras guardar la configuración adecuada, GitHub Pages comenzará automáticamente el despliegue de nuestra Landing Page. En este caso, trabajamos con tres ramas clave: main, develop, y releases. El contenido más estable y listo para producción se encuentra en main, mientras que develop se utiliza para integrar nuevas características en desarrollo, y releases nos ayuda a preparar versiones finales. Una vez completado el despliegue, se generará un enlace que nos permitirá acceder directamente a nuestra Landing Page.
-<br>
-<br>
-
-![deployment3](img/Chapter05/deployment03.png)
-
-<br>
-<br>
-4. Una vez que hayamos ajustado la configuración, GitHub Pages dará inicio al despliegue automático de nuestra Landing Page. Durante este proceso, podremos monitorear el progreso, y cuando se complete exitosamente, se nos proporcionará un enlace directo para acceder a la Landing Page.
-<br>
-<br>
-
-
-![deployment4](img/Chapter05/deploymentfinal.png)
-
-<br>
-<br>
-
-<b> Link de nuestra Landing Page: </b> https://upc-pre-202401-si730-ws51-ridelink.github.io/RideFind.github.io/
-
-
-### 5.2. Landing Page, Services & Applications Implementation.
-#### 5.2.1. Sprint 1.
-#### 5.2.1.1. Sprint Planning 1.
-
-<table>
-  <tr>
-    <th> Sprint # </th>
-    <th> Sprint 1 </th>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;" colspan="2"> Sprint Planning Background </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Date </td>
-    <td> 09/07/2024 </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Time </td>
-    <td> 19:00 horas (GMT-5) </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Location </td>
-    <td> Virtual (Google Meet) </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Prepared By </td>
-    <td> Gutierrez Garcia, Jose Eduardo </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Attendees (to planning meeting) </td>
-    <td>
-      Briceño De La Cruz, Farid Sebastian<br>
-      Gutierrez Garcia, Jose Eduardo<br>
-      Huamani Aguilar, Jhon Rony <br>
-      Huanca Zevallos, Cristhian Joel <br>
-      Sanchez Ignacio, Jefrey Martin <br>
-    </td>
-    </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 1 Review Summary </td>
-    <td> Al este ser nuestro primer sprint de desarrollo no existe un review summary del sprint </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 1 Retrospective Summary </td>
-    <td> Ya que es nuestro primer sprint aún no identificamos ningun plane de mejora. </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;" colspan="2"> Sprint Goal & User Stories </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 1 Goal </td>
-    <td> Completar las principales secciones de la Landing Page de la aplicación RideFind, permitiendo a los usuarios explorar y familiarizarse con la plataforma. </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sprint 1 Velocity </td>
-    <td> <strong>8 </strong><br> Se estima una capacidad de 8 Story Points para este sprint, tomando en cuenta las tareas relacionadas con el desarrollo de la Landing Page. </td>
-  </tr>
-  <tr>
-    <td style="font-weight: bold;"> Sum of Story Points </td>
-    <td> 8 </td>
-  </tr>
-</table>
 
 
 
 #### 5.2.1.2. Sprint Backlog 1.
 
-| id   | Title                  | Id  | Title                                                    | Description                                                                                                   | Estimations(Hours) | Assigned To   | Status(To-do /InProcess/ToReview/Done) |
-| ---- | ---------------------- | --- | -------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------ | ------------- | -------------------------------------- |
-| US01 | Barra de navegación en la Landing Page     | TS01 |Barra de navegación en la Landing Page (Desarrollado en HTML, CSS y JS).| Implementación del header y la barra de navegación, desarrollados en HTML, CSS y JS con diseño responsive. | 8                  | Farid | Done                                   |
-| US02 | 	Sección de beneficios de la Aplicación   | TS02 | Sección de beneficios (Desarrollado en HTML, CSS y JS).|Desarrollar una sección que destaque los beneficios clave de RideFind utilizando HTML, CSS, y componentes reutilizables con diseño responsive. | 6                | Jose | Done                                   |
-| US03 | Información sobre Nosotros           | TS03 | Sección de suscripciones (Desarrollado en HTML, CSS y JS).| Implementar la sección "Sobre Nosotros", mostrando información clave de la empresa con diseño responsive y optimización para dispositivos móviles y tablets. | 4                 | Jhon   | Done                                   |
-| US04 | Redes Sociales y Footer | TS04 | RRedes Sociales y Footer (Desarrollado en HTML, CSS y JS).| Crear un footer con enlaces a redes sociales, optimizado para diferentes resoluciones de pantalla, asegurando su visibilidad en todo tipo de dispositivos.| 4 | Cristhian | Done
-| US05 | Sección de contacto | TS04 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4 | Jefrey | Done
+
+| **Sprint #** | **Sprint 1** |
+|--------------|--------------|
+
+| **User Story** | **Work-Item / Task** |
+|--------------|--------------|
+
+| **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                    | **Estimation (Hours)** | **Assigned To**                    | **Status** |
+|--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|-----------------------------------|------------|
+| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app     | T001    | Crear estructura HTML          | Implementar la estructura básica de la landing page en HTML      | 4                      | Santiago Gordillo        | Done      |
+| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app     | T002    | Estilizar con CSS              | Aplicar el diseño visual utilizando CSS, siguiendo los lineamientos del proyecto. | 6                      | Jhon Huamani          | Done     |
+| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app       | T003    | Configurar carrusel de imágenes | Incluir secciones informativas sobre la aplicación (uso, beneficios, etc.) | 5                      | Juan Quijano       | Done       |
+| US001        | Como ciclista quiero una landing page clara y organizada para entender rápidamente la app        | T004    | Crear formularios de contacto  | Implementar sección de contacto con datos y formulario para soporte.    | 3                      | Melina Santillan        | Done      |
+| US002        | Como ciclista quiero interactuar con elementos dinámicos para explorar de forma sencilla las funcionalidades de la aplicación                 | T005    | Configurar carrusel de imágenes | Ejecutar pruebas para asegurar que todos los elementos interactivos funcionen correctamente. | 2                      | Juan Quijano         | Done       |
+| US002        | Como ciclista quiero interactuar con elementos dinámicos para explorar de forma sencilla las funcionalidades de la aplicación                 | T006    | Agregar animaciones al desplazarse         | Modificar elementos de diseño y funcionalidad basado en el feedback recibido. | 4                      | Santiago Gordillo       | Done     |
+| US002        | Como ciclista quiero interactuar con elementos dinámicos para explorar de forma sencilla las funcionalidades de la aplicación                                          | T007            | implementación de botones dentro de la landing page                               | Se agregan los botones con las funcionalidades escenciales de la app                                                                        | 3                       | Jhon Huamani       |Done
+
 
 Este plan del Sprint 1 se centra en la implementación técnica de las principales secciones de la Landing Page con un enfoque en diseño responsive para asegurar que la plataforma RideFind sea accesible y visualmente atractiva en todos los dispositivos.
 
