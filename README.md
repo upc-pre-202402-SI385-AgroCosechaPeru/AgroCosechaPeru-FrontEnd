@@ -1,26 +1,10 @@
-https://github.com/upc-pre-202402-SI385-AgroCosechaPeru/AgroCosechaPeru-FrontEnd/blob/main/README.md
-Estas convenciones nos ayudan a mantener el código organizado, legible y coherente a lo largo del proyecto.
-
-- US01:
-
-![Gherkin1](img/Chapter05/feature01.png)
-
-- US02:
-
-![Gherkin2](img/Chapter05/feature02.png)
-
-- US03:
-
-![Gherkin3](img/Chapter05/feature03.png)
-
-- US04:
-
-![Gherkin4](img/Chapter05/feature04.png)
-
-- US05:
-
-![Gherkin5](img/Chapter05/feature05.png)
-
+| Team Member (Last Name, First Name) | GitHub Username   | Navigation Bar Leader (L) / Collaborator (C) | Benefits Section Leader (L) / Collaborator (C) | About Us Section Leader (L) / Collaborator (C) | Social Media & Footer Leader (L) / Collaborator (C) | Contact Section Leader (L) / Collaborator (C) |
+|-------------------------------------|-------------------|----------------------------------------------|------------------------------------------------|-------------------------------------------------|------------------------------------------------------|-----------------------------------------------|
+| Jiménez Rosas, Arturo Eduardo       | ajimenezrosas     | L                                            | C                                              | C                                               | L                                                    | C                                             |
+| Rodríguez Peña, Jorge Andrés        | Japr91            | C                                            | L                                              | C                                               | C                                                    | L                                             |
+| Castillo Vega, Marisol              | mcastillovega     | C                                            | C                                              | L                                               | C                                                    | C                                             |
+| Torres Huamán, Diego Sebastián       | dtorres_h         | C                                            | C                                              | C                                               | L                                                    | C                                             |
+| Fernández Quispe, Lucía Daniela      | lfernandezq       | C                                            | L                                              | C                                               | C                                                    | L                                             |
 
 
 
