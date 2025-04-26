@@ -5,7 +5,21 @@
  
  #### 5.2.1.8. Team Collaboration Insights during Sprint.
 
-#### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 Durante este sprint, hemos llevado a cabo las pruebas de aceptación utilizando la herramienta Gherkin. Puedes encontrar los escenarios de estas pruebas dando click aqui: [https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests](https://github.com/upc-pre-202401-si730-ws51-RideLink/RideFind-Acceptance-Tests).
 
