@@ -1,10 +1,10 @@
 | Team Member (Last Name, First Name) | GitHub Username   | Navigation Bar Leader (L) / Collaborator (C) | Benefits Section Leader (L) / Collaborator (C) | About Us Section Leader (L) / Collaborator (C) | Social Media & Footer Leader (L) / Collaborator (C) | Contact Section Leader (L) / Collaborator (C) |
 |-------------------------------------|-------------------|----------------------------------------------|------------------------------------------------|-------------------------------------------------|------------------------------------------------------|-----------------------------------------------|
-| Jiménez Rosas, Arturo Eduardo       | ajimenezrosas     | L                                            | C                                              | C                                               | L                                                    | C                                             |
-| Rodríguez Peña, Jorge Andrés        | Japr91            | C                                            | L                                              | C                                               | C                                                    | L                                             |
-| Castillo Vega, Marisol              | mcastillovega     | C                                            | C                                              | L                                               | C                                                    | C                                             |
-| Torres Huamán, Diego Sebastián       | dtorres_h         | C                                            | C                                              | C                                               | L                                                    | C                                             |
-| Fernández Quispe, Lucía Daniela      | lfernandezq       | C                                            | L                                              | C                                               | C                                                    | L                                             |
+| Daniel Elias Ruiz Huisa         | RuizDan           | L                     | C                     | C                     | L                     | C                     |
+| Carlos Humberto Zarate Peña     | U202315966        | C                     | L                     | C                     | C                     | L                     |
+| Jhon Rony Huamani Aguilar       | JhonHuam          | C                     | C                     | L                     | C                     | C                     |
+| Juan Miguel Quijano Calderon    | JuanqQuijano      | C                     | C                     | C                     | L                     | C                     |
+| Poly Gabriel Alcantara Baldeon  | GabrielAlba24     | C                     | L                     | C                     | C                     | L                     |
 
 
 
