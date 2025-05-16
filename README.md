@@ -10,12 +10,12 @@
 | **Location**          | Virtual (Google Meet) |
 | **Prepared By**       | Jhon Rony Huamani Aguilar |
 | **Attendees (to planning meeting)** | Daniel Elias Ruiz Huisa, Carlos Humberto Zarate Peña, Jhon Rony Huamani Aguilar, Poly Gabriel Alcantara Baldeon    |
-| **Sprint 2 Review Summary** | Durante el Sprint 1 se implementó la versión inicial de la landing page. Se completó el diseño básico. Se hizo una demo funcional. El formulario inicial de registro quedó pendiente para el próximo sprint. |
-| **Sprint 2 Retrospective Summary** | El equipo no logro una colaboración adecuada y no se estimó adecuadamente los tiempos para una entrega adecuada. Se destacó la fluidez en la integración y el despliegue. Se acordó validar los diseños al inicio del sprint y mejorar la estimación de tareas de animación así como agregar los elementos faltantes. |
+| **Sprint 2 - 1 Review Summary** | Se ha actualizado algunos elementos con respecto al reporte en base al feedback brindado por el docente, además de crear una primera versión Front End de nuestra aplicación web, el cual se seguirá desarrollando en futuras entregas. |
+| **Sprint 2 - 1 Retrospective Summary** | Hubo un progreso relativamente bueno con el sprint 2; no se llegaron a completar todas las tareas en su totalidad como se tenía esperado. El equipo reconoce la falta de comunicación y se tomaran acciones con anticipación en las próximas entregas. |
 | **Sprint Goal & User Stories** |          |
-| **Sprint 2 Goal**     | Completar las principales secciones de la Landing Page de la aplicación , permitiendo a los usuarios explorar y familiarizarse con la plataforma. |
-| **Sprint 2 Velocity** | **26**  
-| **Sum of Story Points** | 26 |
+| **Sprint 2  Goal**     | La prioridad en este sprint es la mejora del informe y la implementación de la primera versión de la aplicación front-end. Esto con la finalidad de mostrar las funcionalidades básicas y el diseño de la aplicación web a nuestros primeros usuarios. Podremos identificar puntos de mejora tras la interacción de los usuarios con esta primera versión de la aplicación web.  |
+| **Sprint 2 Velocity** | Nuestro equipo puede trabajar hasta 18 story points |  
+| **Sum of Story Points** | La suma de story points atendidos es de " " |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
 
