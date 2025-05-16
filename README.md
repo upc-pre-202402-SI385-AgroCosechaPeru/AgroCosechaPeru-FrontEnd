@@ -12,7 +12,7 @@
 | **Attendees (to planning meeting)** | Daniel Elias Ruiz Huisa, Carlos Humberto Zarate Peña, Jhon Rony Huamani Aguilar, Poly Gabriel Alcantara Baldeon    |
 | **Sprint 2 - 1 Review Summary** | Se ha actualizado algunos elementos con respecto al reporte en base al feedback brindado por el docente, además de crear una primera versión Front End de nuestra aplicación web, el cual se seguirá desarrollando en futuras entregas. |
 | **Sprint 2 - 1 Retrospective Summary** | Hubo un progreso relativamente bueno con el sprint 2; no se llegaron a completar todas las tareas en su totalidad como se tenía esperado. El equipo reconoce la falta de comunicación y se tomaran acciones con anticipación en las próximas entregas. |
-| **Sprint Goal & User Stories** |          |
+| **Sprint Goal & User Stories** | Permitir a los usuarios visualizar alojamientos de glamping según sus preferencias básicas (ubicación, precio, tipo de alojamiento), con una interfaz funcional de búsqueda y vista previa de resultados.  |
 | **Sprint 2  Goal**     | La prioridad en este sprint es la mejora del informe y la implementación de la primera versión de la aplicación front-end. Esto con la finalidad de mostrar las funcionalidades básicas y el diseño de la aplicación web a nuestros primeros usuarios. Podremos identificar puntos de mejora tras la interacción de los usuarios con esta primera versión de la aplicación web.  |
 | **Sprint 2 Velocity** | Nuestro equipo puede trabajar hasta 18 story points |  
 | **Sum of Story Points** | La suma de story points atendidos es de " " |
