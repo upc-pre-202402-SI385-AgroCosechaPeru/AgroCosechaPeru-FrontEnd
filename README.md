@@ -28,6 +28,15 @@
 | Poly Gabriel Alcantara Baldeon  | GabrielAlba24     | C                     | L                     | C                     | C                     | L                     |
 
 
+
+| Team Member (Last Name, First Name) | GitHub Username | US03 – Buscar alojamientos glamping (L/C) | US05 – Publicar alojamiento (L/C) | US06 – Visualizar catálogo de servicios (L/C) |
+| ----------------------------------- | --------------- | ----------------------------------------- | --------------------------------- | --------------------------------------------- |
+| Daniel Elias Ruiz Huisa             | DanRuizPeru     | **L**                                     | C                                 | C                                             |
+| Carlos Humberto Zarate Peña         | U202315966      | C                                         | **L**                             | C                                             |
+| Jhon Rony Huamani Aguilar           | JhonHuam        | C                                         | C                                 | **L**                                         |
+| Poly Gabriel Alcantara Baldeon      | GabrielAlba24   | C                                         | C                                 | C                                             |
+
+
 #### 5.2.1.3. Sprint Backlog 2
 
 Esta sección presenta un resumen estructurado del Sprint 2, cuyo objetivo principal fue avanzar en la construcción de una versión inicial funcional del Front-End de la aplicación web, centrada en permitir a los usuarios visualizar alojamientos de glamping según filtros básicos como ubicación, precio y tipo de experiencia.
