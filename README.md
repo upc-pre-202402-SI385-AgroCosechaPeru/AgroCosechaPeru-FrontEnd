@@ -42,24 +42,22 @@ Se detallan a continuación las metas propuestas para este sprint, las funcional
 
 | **Id**        | **Title**                                | **Id**  | **Title**                     | **Description**                                                   | **Estimation (Hours)** | **Status** |
 |--------------|------------------------------------------|---------|-------------------------------|--------------------------------------------------------------------|------------------------|------------|
- | US03 | Publicar alojamiento | TS01 | Diseñar la interfaz de búsqueda (UI)| Maquetar el campo de búsqueda, filtros (ubicación, precio, fechas).| 4 |   Done
- | US03 | Publicar alojamiento | TS02 | Implementar filtros de búsqueda básicos| Crear campos interactivos para seleccionar ubicación y rango de precios.| 4   | Done
- | US03 | Publicar alojamiento | TS03 | Diseñar tarjetas de resultado | Mostrar imagen, nombre, precio por noche, puntuación.| 4   | Done
- | US03 | Publicar alojamiento | TS04 | Conectar el buscador con datos simulados|Utilizar JSON o un backend mock para simular resultados.| 4   | Done
- | US03 | Publicar alojamiento | TS05 | Diseñar página de resultados| ista limpia con disposición de tarjetas y filtros laterales o superiores.| 4   | Done
- | US03 | Publicar alojamiento | TS06 | Pruebas de interacción| Verificar funcionamiento de filtros y visualización de datos.| 4   | Done
- | US05 | Publicar alojamiento | TS07 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4  | Done
- | US05 | Publicar alojamiento | TS08 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4   | Done
- | US05 | Publicar alojamiento | TS09 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4   | Done
- | US05 | Publicar alojamiento | TS010 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4  | Done
- | US05 | Publicar alojamiento | TS11 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4  | Done
- | US05 | Publicar alojamiento | TS12 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4  | Done
- | US06 | Sección de contacto | TS13 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4  | Done
- | US06 | Sección de contacto | TS14 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4  | Done
- | US06 | Sección de contacto | TS15 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4 | Done
- | US06 | Sección de contacto | TS16 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4  | Done
- | US06 | Sección de contacto | TS17 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4  | Done
- | US06 | Sección de contacto | TS18 | Sección de contacto (Desarrollado en HTML, CSS y JS).| Implementar una sección de contacto con un formulario básico, validación de datos, y diseño responsive para garantizar su correcto funcionamiento en móviles.| 4  | Done
+ | US03 | Buscar alojamientos glamping | TS01 | Diseñar la interfaz de búsqueda (UI)| Maquetar el campo de búsqueda, filtros (ubicación, precio, fechas).| 2 |   Done
+ | US03 | Buscar alojamientos glamping | TS02 | Implementar filtros de búsqueda básicos| Crear campos interactivos para seleccionar ubicación y rango de precios.| 1   | Done
+ | US03 | Buscar alojamientos glamping | TS03 | Diseñar tarjetas de resultado | Mostrar imagen, nombre, precio por noche, puntuación.| 0.5   | Done
+ | US03 | Buscar alojamientos glamping | TS04 | Conectar el buscador con datos simulados|Utilizar JSON o un backend mock para simular resultados.| 0.5   | Done
+ | US03 | Buscar alojamientos glamping | TS05 | Diseñar página de resultados| ista limpia con disposición de tarjetas y filtros laterales o superiores.| 1   | Done
+ | US03 | Buscar alojamientos glamping | TS06 | Pruebas de interacción| Verificar funcionamiento de filtros y visualización de datos.| 0.5   | Done
+ | US05 | Publicar alojamiento | TS07 | Diseñar formulario de publicación | Campos: título, ubicación, precio, tipo de alojamiento, descripción, fotos.| 1  | Done
+ | US05 | Publicar alojamiento | TS08 | Agregar validación de campos | Validar campos obligatorios, tipos de dato (precio numérico, texto, etc).| 0.5   | Done
+ | US05 | Publicar alojamiento | TS09 | Diseñar interfaz de carga de imágenes | Simulación de carga, sin almacenamiento real aún| 2   | Done
+ | US05 | Publicar alojamiento | TS010 | Botón "Publicar" con feedback visual | Mensaje de éxito al enviar el formulario correctamente.| 0.2  | Done
+ | US05 | Publicar alojamiento | TS11 | Simulación de envío de datos| Enviar datos a un JSON local | 0.5  | Done
+ | US05 | Publicar alojamiento | TS12 | Página de confirmación o resumen| Mostrar los datos ingresados como si fueran publicados.| 0.5  | Done
+ | US06 | Visualizar catálogo de servicios | TS13 | Diseñar sección "Explorar experiencias rurales" | Encabezado, introducción breve y categorías.  | 1  | Done
+ | US06 | Visualizar catálogo de servicios | TS14 | Diseñar tarjetas de servicio turístico| Imagen, nombre, tipo, precio, ubicación del servicio. | 0.5  | Done
+ | US06 | Visualizar catálogo de servicios | TS16 | Simular carga de datos del catálogo | Usar datos ficticios (mock) para mostrar diferentes servicios. | 0.5  | Done
+ | US06 | Visualizar catálogo de servicios | TS17 | Diseñar filtro básico por tipo de servicio |Ejemplo: guiado, alimentación, actividades, hospedaje.  | 0.2  | Done
 
  #### 5.2.1.4. Development Evidence for Sprint Review.
  
