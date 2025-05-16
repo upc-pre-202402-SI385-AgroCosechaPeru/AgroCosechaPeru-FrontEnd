@@ -2,19 +2,19 @@
 #### 5.2.1. Sprint 1.
 #### 5.2.1.1. Sprint Planning 1.
 
-| Sprint #              | Sprint 1 |
+| Sprint #              | Sprint 2 |
 |-----------------------|----------|
 | **Sprint Planning Background** |          |
-| **Date**              | 23/04/2025 |
-| **Time**              | 19:00 horas (GMT-5) |
+| **Date**              | 15/05/2025 |
+| **Time**              | 20:00 horas (GMT-5) |
 | **Location**          | Virtual (Google Meet) |
-| **Prepared By**       | Juan Miguel Quijano Calderon |
+| **Prepared By**       | Jhon Rony Huamani Aguilar |
 | **Attendees (to planning meeting)** | Daniel Elias Ruiz Huisa, Carlos Humberto Zarate Peña, Jhon Rony Huamani Aguilar, Poly Gabriel Alcantara Baldeon    |
-| **Sprint 1 Review Summary** | Durante el Sprint 1 se implementó la versión inicial de la landing page. Se completó el diseño básico. Se hizo una demo funcional. El formulario inicial de registro quedó pendiente para el próximo sprint. |
-| **Sprint 1 Retrospective Summary** | El equipo no logro una colaboración adecuada y no se estimó adecuadamente los tiempos para una entrega adecuada. Se destacó la fluidez en la integración y el despliegue. Se acordó validar los diseños al inicio del sprint y mejorar la estimación de tareas de animación así como agregar los elementos faltantes. |
+| **Sprint 2 Review Summary** | Durante el Sprint 1 se implementó la versión inicial de la landing page. Se completó el diseño básico. Se hizo una demo funcional. El formulario inicial de registro quedó pendiente para el próximo sprint. |
+| **Sprint 2 Retrospective Summary** | El equipo no logro una colaboración adecuada y no se estimó adecuadamente los tiempos para una entrega adecuada. Se destacó la fluidez en la integración y el despliegue. Se acordó validar los diseños al inicio del sprint y mejorar la estimación de tareas de animación así como agregar los elementos faltantes. |
 | **Sprint Goal & User Stories** |          |
-| **Sprint 1 Goal**     | Completar las principales secciones de la Landing Page de la aplicación , permitiendo a los usuarios explorar y familiarizarse con la plataforma. |
-| **Sprint 1 Velocity** | **26**  
+| **Sprint 2 Goal**     | Completar las principales secciones de la Landing Page de la aplicación , permitiendo a los usuarios explorar y familiarizarse con la plataforma. |
+| **Sprint 2 Velocity** | **26**  
 | **Sum of Story Points** | 26 |
 
 #### 5.2.1.2. Aspect Leaders and Collaborators.
